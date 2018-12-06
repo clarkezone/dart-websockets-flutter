@@ -9,7 +9,7 @@ void main() {
       server.listen((request) {
         request.response.headers..contentType = ContentType.TEXT;
         request.response
-        	..writeLn('Hello world')
+        	..writeln('Hello world')
             ..writeln('Dart version: ${Platform.version}')
             ..writeln('Dart executable: ${Platform.executable}')
             ..writeln('Dart executable arguments: '
