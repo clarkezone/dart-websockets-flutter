@@ -1,0 +1,5 @@
+# Default server configuration.
+host: 0.0.0.0
+mongo_db: mongodb://localhost:27017/angel
+port: 3000
+jwt_secret: "EhP7dY72U98FApZhrjQEciMjOwbt1AfT"

@@ -1,4 +1,6 @@
 name: common
+environment:
+  sdk: '>=2.0.0-dev <3.0.0'
 dependencies:
         angel_model: ^1.0.0+1
         angel_serialize: ^2.1.0
