@@ -1,0 +1,4 @@
+name: test
+description: test
+dependencies:
+   angel_framework: ^2.0.0-alpha
